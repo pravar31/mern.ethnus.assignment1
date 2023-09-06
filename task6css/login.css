@@ -1,0 +1,46 @@
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+  }
+  
+  .profile-row {
+    text-align: center;
+  }
+  
+  .form-items {
+    width: 97%;
+    height: 30px;
+  }
+  
+  .forgot-pswd {
+    float: right;
+    padding-top: 3%;
+  }
+  
+  .login-btn {
+    width: 100%;
+    padding: 2%;
+    color: white;
+    background: green;
+    border: none;
+    border-radius: 2.5px;
+  }
+  
+  button {
+    color: white;
+    background: red;
+    border: 0px;
+    padding: 3%;
+    border-radius: 5px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  table {
+    width: 25%;
+    border: 1px solid black;
+    padding: 2%;
+    margin: 10%;
+  }

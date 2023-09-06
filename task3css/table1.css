@@ -1,0 +1,23 @@
+.table {
+    border: 1px solid black;
+    width: 50%;
+    margin: 10%;
+  }
+  
+  .header-row {
+    background: rgb(9, 168, 109);
+    color: white;
+    font-weight: bold;
+  }
+  
+  .dark-row {
+    background: rgb(221, 221, 221);
+  }
+  
+  .light-row {
+    background: whitesmoke;
+  }
+  
+  td {
+    padding: 10px;
+  }
